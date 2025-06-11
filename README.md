@@ -150,7 +150,7 @@ streamlit run app.py
 
 **🧑‍💻 DataQuest Solutions**  
 _Data science, AI, and health innovation_  
-🌐 [www.dataquestsolutions.tech](https://dqs-git-main-enocks-projects-27f604c8.vercel.app/) • 📧 info@dataquestsolutions.tech
+🌐 [www.dataquestsolutions.tech](https://dqs-git-main-enocks-projects-27f604c8.vercel.app/) • 📧 [info@dataquestsolutions.tech](dataquestsolutions2@gmail.com)
 
 ---
 
