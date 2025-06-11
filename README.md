@@ -150,15 +150,15 @@ streamlit run app.py
 
 **🧑‍💻 DataQuest Solutions**  
 _Data science, AI, and health innovation_  
-🌐 [www.dataquestsolutions.tech](#) • 📧 info@dataquestsolutions.tech
+🌐 [www.dataquestsolutions.tech](https://dqs-git-main-enocks-projects-27f604c8.vercel.app/) • 📧 info@dataquestsolutions.tech
 
 ---
 
 ## 🌍 Let's Connect
 
-<a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"></a>
-<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/enock-bereka"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+<a href="mailto:enochosenwafulah@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Biosticianenoch"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
 
 ---
 
