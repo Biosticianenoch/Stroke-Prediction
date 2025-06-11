@@ -12,11 +12,12 @@
 
 ---
 
-## 📸 App Demo
+## 📸 App Preview
 
 ![App Screenshot](https://github.com/your-repo/stroke-predictor-app/assets/demo-gif.gif)  
 <sup><i>Live prediction, personalized recommendations, and educational health resources.</i></sup>
 
+[Live url](https://stroke-prediction-phurginmqmv3exp8uv9pxz.streamlit.app)
 ---
 
 ## 📚 Table of Contents
